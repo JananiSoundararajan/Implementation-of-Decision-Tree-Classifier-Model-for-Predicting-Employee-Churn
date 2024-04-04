@@ -16,7 +16,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 4.From sklearn.tree import DecisionTreeClassifier and use criterion as entropy.
 
-5.Find the accuracy of the model and predict the required values by importing the required module from sklearn.Import the required libraries.
+5.Find the accuracy of the model and predict the required values by importing the required module from sklearn.
 
 ## Program:
 ```
